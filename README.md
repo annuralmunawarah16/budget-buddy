@@ -16,7 +16,7 @@
 
 ## Tampilan Aplikasi
 
-![Screenshot](screenshot.png)  
+![Tampilan Budget Buddy](tampilan-budget-buddy.jpeg)  
 Tampilan utama Budget Buddy
 
 ---
@@ -41,7 +41,7 @@ Tampilan utama Budget Buddy
 ## Live Demo
 
 Akses versi online-nya di sini:  
-**[https://annuralmunawarah16.github.io/budget-buddy](https://annuralmunawarah16.github.io/budget-buddy)**
+**[ https://annuralmunawarah16.github.io/budget-buddy/]( https://annuralmunawarah16.github.io/budget-buddy/)**
 
 ---
 
@@ -51,7 +51,7 @@ budget-buddy/
 ├── index.html
 ├── style.css
 ├── script.js
-├── screenshot.png
+├── tampilan-budget-buddy.jpeg
 └── README.md
 
 ---
